@@ -1,0 +1,82 @@
+﻿body {
+    background-color: #393e46;
+}
+
+.headingMain {
+    width: 85rem;
+    height: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 7%;
+    margin-top: -1%;
+    padding-left: 94px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.main {
+    font-family: 'Lobster',cursive;
+    color: aquamarine;
+    font-weight: 900;
+    font-size: 100px;
+    box-sizing: border-box;
+    display: inline;
+    width: 1360px;
+    height: 33px;
+    
+    align-items: baseline;
+    justify-content: right;
+    text-align: center;
+}
+.Players {
+    box-sizing: border-box;
+    display: flex;
+    
+}
+
+
+.player1 {
+    font-family: cursive;
+    color: aquamarine;
+    font-weight: 100;
+    width:200px;
+}
+
+
+.player2 {
+    font-family: cursive;
+    color: aquamarine;
+    font-weight: 100;
+    width:200px;
+}
+
+.Player1 {
+    font-family: cursive;
+    color: aquamarine;
+    font-weight: 100;
+    margin-left: 570px;
+    font-size: 2rem;
+    width:200px;
+
+}
+
+.Player2 {
+    
+    margin-left: 595px;
+    font-weight: 100;
+    font-family: cursive;
+    color: aquamarine;
+}
+
+img{
+    width:200px;
+}
+.p1 {
+    margin-left: 518px;
+    margin-top: 20px;
+}
+.p2 {
+    margin-left: 543px;
+    margin-top: 20px;
+}
